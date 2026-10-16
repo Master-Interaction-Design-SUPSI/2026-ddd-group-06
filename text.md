@@ -1,6 +1,6 @@
 ---
-title: Demonstration: Three Values
-authors: Replace with your group members
+title: Group 06: Sample project
+authors: Group 06 — replace with your names
 ---
 
 What can we learn by comparing three values? This is a **demonstration**, not a research finding. The main visual uses invented numbers: 20, 35 and 50.
