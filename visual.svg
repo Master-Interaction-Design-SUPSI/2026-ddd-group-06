@@ -1,18 +1,381 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
-  <title>Demonstration — invented values: 20, 35 and 50</title>
-  <rect width="1920" height="1080" fill="#f7f6f2"/>
-  <g fill="#202724" font-family="sans-serif">
-    <text x="120" y="140" font-size="58">DEMONSTRATION — INVENTED DATA</text>
-    <text x="120" y="210" font-size="32">Replace this visual with your group's own work.</text>
-  </g>
-  <g fill="#116964">
-    <rect x="300" y="650" width="300" height="200"/>
-    <rect x="800" y="500" width="300" height="350"/>
-    <rect x="1300" y="350" width="300" height="500"/>
-  </g>
-  <g fill="#202724" font-family="sans-serif" font-size="42" text-anchor="middle">
-    <text x="450" y="920">20</text>
-    <text x="950" y="920">35</text>
-    <text x="1450" y="920">50</text>
-  </g>
+<title>From the machine to the word: how 107 sources describe the sound of AI data centres</title>
+<rect width="1920" height="1080" fill="#f6f4ee"/>
+<text x="100" y="128" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#1d2321">From the machine to the word</text>
+<text x="100" y="178" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" fill="#1d2321">How 107 published sources (2018–2026) describe the sound of AI data centres. One dot = one source.</text>
+<text x="100" y="270" font-family="Menlo, Consolas, monospace" font-size="20" fill="#8a8f8c" letter-spacing="2">01  MACHINE</text>
+<text x="100" y="310" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1d2321">Which machine makes it?</text>
+<circle cx="107" cy="367" r="7" fill="#1d2321"/>
+<circle cx="126" cy="367" r="7" fill="#1d2321"/>
+<circle cx="145" cy="367" r="7" fill="#1d2321"/>
+<circle cx="164" cy="367" r="7" fill="#1d2321"/>
+<circle cx="183" cy="367" r="7" fill="#1d2321"/>
+<circle cx="202" cy="367" r="7" fill="#1d2321"/>
+<circle cx="221" cy="367" r="7" fill="#1d2321"/>
+<circle cx="240" cy="367" r="7" fill="#1d2321"/>
+<circle cx="259" cy="367" r="7" fill="#1d2321"/>
+<circle cx="278" cy="367" r="7" fill="#1d2321"/>
+<circle cx="107" cy="386" r="7" fill="#1d2321"/>
+<circle cx="126" cy="386" r="7" fill="#1d2321"/>
+<circle cx="145" cy="386" r="7" fill="#1d2321"/>
+<circle cx="164" cy="386" r="7" fill="#1d2321"/>
+<circle cx="183" cy="386" r="7" fill="#1d2321"/>
+<circle cx="202" cy="386" r="7" fill="#1d2321"/>
+<circle cx="221" cy="386" r="7" fill="#1d2321"/>
+<circle cx="240" cy="386" r="7" fill="#1d2321"/>
+<circle cx="259" cy="386" r="7" fill="#1d2321"/>
+<circle cx="278" cy="386" r="7" fill="#1d2321"/>
+<circle cx="107" cy="405" r="7" fill="#1d2321"/>
+<circle cx="126" cy="405" r="7" fill="#1d2321"/>
+<circle cx="145" cy="405" r="7" fill="#1d2321"/>
+<circle cx="164" cy="405" r="7" fill="#1d2321"/>
+<circle cx="183" cy="405" r="7" fill="#1d2321"/>
+<text x="308" y="376" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Cooling</text>
+<text x="308" y="404" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">25</text>
+<circle cx="107" cy="450" r="7" fill="#1d2321"/>
+<circle cx="126" cy="450" r="7" fill="#1d2321"/>
+<circle cx="145" cy="450" r="7" fill="#1d2321"/>
+<circle cx="164" cy="450" r="7" fill="#1d2321"/>
+<circle cx="183" cy="450" r="7" fill="#1d2321"/>
+<circle cx="202" cy="450" r="7" fill="#1d2321"/>
+<circle cx="221" cy="450" r="7" fill="#1d2321"/>
+<circle cx="240" cy="450" r="7" fill="#1d2321"/>
+<circle cx="259" cy="450" r="7" fill="#1d2321"/>
+<circle cx="278" cy="450" r="7" fill="#1d2321"/>
+<circle cx="107" cy="469" r="7" fill="#1d2321"/>
+<circle cx="126" cy="469" r="7" fill="#1d2321"/>
+<circle cx="145" cy="469" r="7" fill="#1d2321"/>
+<text x="308" y="459" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Power</text>
+<text x="308" y="487" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">13</text>
+<circle cx="107" cy="514" r="7" fill="#1d2321"/>
+<circle cx="126" cy="514" r="7" fill="#1d2321"/>
+<circle cx="145" cy="514" r="7" fill="#1d2321"/>
+<circle cx="164" cy="514" r="7" fill="#1d2321"/>
+<circle cx="183" cy="514" r="7" fill="#1d2321"/>
+<circle cx="202" cy="514" r="7" fill="#1d2321"/>
+<circle cx="221" cy="514" r="7" fill="#1d2321"/>
+<circle cx="240" cy="514" r="7" fill="#1d2321"/>
+<circle cx="259" cy="514" r="7" fill="#1d2321"/>
+<circle cx="278" cy="514" r="7" fill="#1d2321"/>
+<text x="308" y="523" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Both</text>
+<text x="308" y="551" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">10</text>
+<circle cx="107" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="126" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="145" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="164" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="183" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="202" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="221" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="240" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="259" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="278" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="107" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="126" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="145" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="164" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="183" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="202" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="221" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="240" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="259" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="278" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="107" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="126" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="145" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="164" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="183" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="202" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="221" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="240" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="259" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="278" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="107" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="126" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="145" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="164" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="183" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="202" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="221" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="240" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="259" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="278" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="107" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="126" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="145" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="164" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="183" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="202" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="221" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="240" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="259" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="278" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="107" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="126" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="145" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="164" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="183" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="202" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="221" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="240" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="259" cy="673" r="7" fill="#d9d5cc"/>
+<text x="308" y="587" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Not named</text>
+<text x="308" y="615" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">59</text>
+<path d="M484 298 l20 0 m-8 -7 l8 7 l-8 7" stroke="#8a8f8c" stroke-width="2" fill="none"/>
+<text x="520" y="270" font-family="Menlo, Consolas, monospace" font-size="20" fill="#8a8f8c" letter-spacing="2">02  PITCH</text>
+<text x="520" y="310" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1d2321">High or low?</text>
+<circle cx="527" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="546" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="565" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="584" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="603" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="622" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="641" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="660" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="679" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="698" cy="367" r="7" fill="#2f6db3"/>
+<circle cx="527" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="546" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="565" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="584" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="603" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="622" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="641" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="660" cy="386" r="7" fill="#2f6db3"/>
+<circle cx="679" cy="386" r="7" fill="#2f6db3"/>
+<text x="728" y="376" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Low</text>
+<text x="728" y="404" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">19</text>
+<circle cx="527" cy="431" r="7" fill="#e0722b"/>
+<circle cx="546" cy="431" r="7" fill="#e0722b"/>
+<circle cx="565" cy="431" r="7" fill="#e0722b"/>
+<circle cx="584" cy="431" r="7" fill="#e0722b"/>
+<circle cx="603" cy="431" r="7" fill="#e0722b"/>
+<circle cx="622" cy="431" r="7" fill="#e0722b"/>
+<circle cx="641" cy="431" r="7" fill="#e0722b"/>
+<circle cx="660" cy="431" r="7" fill="#e0722b"/>
+<circle cx="679" cy="431" r="7" fill="#e0722b"/>
+<circle cx="698" cy="431" r="7" fill="#e0722b"/>
+<circle cx="527" cy="450" r="7" fill="#e0722b"/>
+<circle cx="546" cy="450" r="7" fill="#e0722b"/>
+<text x="728" y="440" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">High</text>
+<text x="728" y="468" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">12</text>
+<circle cx="527" cy="495" r="7" fill="#9aa3a0"/>
+<circle cx="546" cy="495" r="7" fill="#9aa3a0"/>
+<circle cx="565" cy="495" r="7" fill="#9aa3a0"/>
+<circle cx="584" cy="495" r="7" fill="#9aa3a0"/>
+<text x="728" y="504" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Either</text>
+<text x="728" y="532" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">4</text>
+<circle cx="527" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="559" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="578" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="597" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="616" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="635" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="654" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="565" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="584" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="603" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="622" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="641" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="660" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="679" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="698" cy="673" r="7" fill="#d9d5cc"/>
+<circle cx="527" cy="692" r="7" fill="#d9d5cc"/>
+<circle cx="546" cy="692" r="7" fill="#d9d5cc"/>
+<text x="728" y="568" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Not stated</text>
+<text x="728" y="596" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">72</text>
+<path d="M904 298 l20 0 m-8 -7 l8 7 l-8 7" stroke="#8a8f8c" stroke-width="2" fill="none"/>
+<text x="940" y="270" font-family="Menlo, Consolas, monospace" font-size="20" fill="#8a8f8c" letter-spacing="2">03  VOICE</text>
+<text x="940" y="310" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1d2321">Who is speaking?</text>
+<circle cx="947" cy="367" r="7" fill="#1d2321"/>
+<circle cx="966" cy="367" r="7" fill="#1d2321"/>
+<circle cx="985" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1042" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1061" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1080" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1099" cy="367" r="7" fill="#1d2321"/>
+<circle cx="1118" cy="367" r="7" fill="#1d2321"/>
+<circle cx="947" cy="386" r="7" fill="#1d2321"/>
+<circle cx="966" cy="386" r="7" fill="#1d2321"/>
+<circle cx="985" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1042" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1061" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1080" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1099" cy="386" r="7" fill="#1d2321"/>
+<circle cx="1118" cy="386" r="7" fill="#1d2321"/>
+<circle cx="947" cy="405" r="7" fill="#1d2321"/>
+<circle cx="966" cy="405" r="7" fill="#1d2321"/>
+<circle cx="985" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1042" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1061" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1080" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1099" cy="405" r="7" fill="#1d2321"/>
+<circle cx="1118" cy="405" r="7" fill="#1d2321"/>
+<text x="1148" y="376" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Residents</text>
+<text x="1148" y="404" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">30</text>
+<circle cx="947" cy="450" r="7" fill="#1d2321"/>
+<circle cx="966" cy="450" r="7" fill="#1d2321"/>
+<circle cx="985" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1042" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1061" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1080" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1099" cy="450" r="7" fill="#1d2321"/>
+<circle cx="1118" cy="450" r="7" fill="#1d2321"/>
+<circle cx="947" cy="469" r="7" fill="#1d2321"/>
+<circle cx="966" cy="469" r="7" fill="#1d2321"/>
+<circle cx="985" cy="469" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="469" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="469" r="7" fill="#1d2321"/>
+<text x="1148" y="459" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Journalists</text>
+<text x="1148" y="487" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">15</text>
+<circle cx="947" cy="514" r="7" fill="#1d2321"/>
+<circle cx="966" cy="514" r="7" fill="#1d2321"/>
+<circle cx="985" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1042" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1061" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1080" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1099" cy="514" r="7" fill="#1d2321"/>
+<circle cx="1118" cy="514" r="7" fill="#1d2321"/>
+<circle cx="947" cy="533" r="7" fill="#1d2321"/>
+<circle cx="966" cy="533" r="7" fill="#1d2321"/>
+<circle cx="985" cy="533" r="7" fill="#1d2321"/>
+<circle cx="1004" cy="533" r="7" fill="#1d2321"/>
+<circle cx="1023" cy="533" r="7" fill="#1d2321"/>
+<text x="1148" y="523" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Institutions</text>
+<text x="1148" y="551" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">15</text>
+<circle cx="947" cy="578" r="7" fill="#6f7672"/>
+<circle cx="966" cy="578" r="7" fill="#6f7672"/>
+<circle cx="985" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1004" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1023" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1042" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1061" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1080" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1099" cy="578" r="7" fill="#6f7672"/>
+<circle cx="1118" cy="578" r="7" fill="#6f7672"/>
+<circle cx="947" cy="597" r="7" fill="#6f7672"/>
+<circle cx="966" cy="597" r="7" fill="#6f7672"/>
+<circle cx="985" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1004" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1023" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1042" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1061" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1080" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1099" cy="597" r="7" fill="#6f7672"/>
+<circle cx="1118" cy="597" r="7" fill="#6f7672"/>
+<circle cx="947" cy="616" r="7" fill="#6f7672"/>
+<circle cx="966" cy="616" r="7" fill="#6f7672"/>
+<circle cx="985" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1004" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1023" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1042" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1061" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1080" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1099" cy="616" r="7" fill="#6f7672"/>
+<circle cx="1118" cy="616" r="7" fill="#6f7672"/>
+<circle cx="947" cy="635" r="7" fill="#6f7672"/>
+<circle cx="966" cy="635" r="7" fill="#6f7672"/>
+<circle cx="985" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1004" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1023" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1042" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1061" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1080" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1099" cy="635" r="7" fill="#6f7672"/>
+<circle cx="1118" cy="635" r="7" fill="#6f7672"/>
+<circle cx="947" cy="654" r="7" fill="#6f7672"/>
+<circle cx="966" cy="654" r="7" fill="#6f7672"/>
+<circle cx="985" cy="654" r="7" fill="#6f7672"/>
+<circle cx="1004" cy="654" r="7" fill="#6f7672"/>
+<circle cx="1023" cy="654" r="7" fill="#6f7672"/>
+<circle cx="1042" cy="654" r="7" fill="#6f7672"/>
+<circle cx="1061" cy="654" r="7" fill="#6f7672"/>
+<text x="1148" y="587" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">Mixed voices</text>
+<text x="1148" y="615" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1d2321">47</text>
+<path d="M1324 298 l20 0 m-8 -7 l8 7 l-8 7" stroke="#8a8f8c" stroke-width="2" fill="none"/>
+<text x="1360" y="270" font-family="Menlo, Consolas, monospace" font-size="20" fill="#8a8f8c" letter-spacing="2">04  WORD</text>
+<text x="1360" y="310" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1d2321">What do they call it?</text>
+<text x="1360" y="484.45" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="131" font-weight="700" fill="#2f6db3">hum</text>
+<text x="1660" y="484.45" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#1d2321">35 sources</text>
+<text x="1360" y="581.5" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="79" font-weight="700" fill="#9aa3a0">tone</text>
+<text x="1660" y="581.5" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#1d2321">15 sources</text>
+<text x="1360" y="666.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#e0722b">whine</text>
+<text x="1660" y="666.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#1d2321">10 sources</text>
+<text x="1360" y="748.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="72" font-weight="300" fill="#8a8f8c" stroke="#8a8f8c" stroke-dasharray="4 4" stroke-width="0">“noise”</text>
+<text x="1360" y="788.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#1d2321"><tspan font-weight="700">51</tspan> sources use no other sound word</text>
+<line x1="100" y1="855" x2="1820" y2="855" stroke="#dcd8cf" stroke-width="2"/>
+<text x="100" y="905" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#1d2321">73% vs 36%</text>
+<text x="100" y="943" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">of sources find a sound word when they</text>
+<text x="100" y="971" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">name the machine, vs when they don’t</text>
+<text x="680" y="905" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#1d2321">23%</text>
+<text x="680" y="943" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">of residents say it sounds</text>
+<text x="680" y="971" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">“like an aircraft”</text>
+<text x="1260" y="905" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#1d2321">47%</text>
+<text x="1260" y="943" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">of institutions call it</text>
+<text x="1260" y="971" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1d2321">a “tone”</text>
+<text x="100" y="1044" font-family="Menlo, Consolas, monospace" font-size="16" fill="#8a8f8c">Noyan and Alireza · Group 06 · Data Driven Design 2026 · SUPSI. 71 of 107 entries not yet checked against the original page. Sources can use several words.</text>
 </svg>
